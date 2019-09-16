@@ -11,6 +11,6 @@ A simple blog post created while i learned how to set this all up.
 
 1. I wish
 1. I could
-1. Use 'system.out.println("Hello world")
+1. Use 'system.out.println'("Hello world");
 
 ## But i can't.
