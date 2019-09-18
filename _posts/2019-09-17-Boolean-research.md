@@ -18,6 +18,5 @@ They are :
 
 ![_config.yml]({{ site.baseurl }}/images/truth-table.png)
 
-
 Sources: 
 * https://introcs.cs.princeton.edu/java/71boolean/ 
