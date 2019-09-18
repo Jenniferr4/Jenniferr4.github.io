@@ -14,8 +14,11 @@ They are :
 * exclusive OR ( XOR )
 * NOT ( ! )
 
- ## Truth Table
 
+ ## Truth Table
+The truth table shows all possible combinations of the 
+variables showing the relation between the values that 
+variables may take and the result of the operation.
 ![_config.yml]({{ site.baseurl }}/images/truth-table.png)
 
 Sources: 
