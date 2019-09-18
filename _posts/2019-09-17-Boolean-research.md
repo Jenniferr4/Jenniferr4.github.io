@@ -21,5 +21,8 @@ variables showing the relation between the values that
 variables may take and the result of the operation.
 ![_config.yml]({{ site.baseurl }}/images/truth-table.png)
 
-Sources: 
-* https://introcs.cs.princeton.edu/java/71boolean/ 
+## Boolean Operators
+![_config.yml]({{ site.baseurl }}/images/operatortable.png)
+
+[Source link](https://introcs.cs.princeton.edu/java/71boolean/)
+[Source 2](https://en.m.wikipedia.org/wiki/Truth_table)
