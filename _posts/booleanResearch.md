@@ -16,4 +16,6 @@ They are :
 
 ### Truth Table
 
+![_config.yml]({{ site.baseurl }}/images/truth-table.png)
+
 (Note from Jennifer: Still working on homework... )
