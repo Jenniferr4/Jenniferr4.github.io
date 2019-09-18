@@ -14,7 +14,7 @@ They are :
 * exclusive OR ( XOR )
 * NOT ( ! )
 
- ### Truth Table
+ # Truth Table
 
 ![_config.yml]({{ site.baseurl }}/images/truth-table.png)
 
