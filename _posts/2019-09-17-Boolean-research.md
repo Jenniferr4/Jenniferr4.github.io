@@ -46,4 +46,4 @@ variables may take and the result of the operation.
 
 [Source for Boolean Operators](https://en.m.wikipedia.org/wiki/Truth_table)
 
-[Source for destails] (https://www.dummies.com/programming/java/logical-operators-in-java/)
+[Source for details](https://www.dummies.com/programming/java/logical-operators-in-java/)
