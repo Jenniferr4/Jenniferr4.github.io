@@ -8,14 +8,18 @@ I found that there are six logical,
 or boolean, operators. 
 They are :
 * AND ( & )
-* conditional AND (&&)
+* conditional AND ( && )
 * OR ( | )
 * conditional OR ( || )
 * exclusive OR ( XOR )
 * NOT ( ! )
 
- # Truth Table
+ ## Truth Table
 
 ![_config.yml]({{ site.baseurl }}/images/truth-table.png)
+
+
+Sources: 
+* https://introcs.cs.princeton.edu/java/71boolean/ 
 
 (Note from Jennifer: Still working on homework... )
