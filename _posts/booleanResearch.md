@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Boolean Research 2019-09-17
+title: Boolean Research
 ---
 
 According to my online research, 
@@ -14,7 +14,7 @@ They are :
 * exclusive OR ( XOR )
 * NOT ( ! )
 
-### Truth Table
+ Truth Table
 
 ![_config.yml]({{ site.baseurl }}/images/truth-table.png)
 
