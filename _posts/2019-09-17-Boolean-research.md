@@ -16,6 +16,7 @@ They are :
 
 
  ## Truth Table
+ 
 The truth table shows all possible combinations of the 
 variables showing the relation between the values that 
 variables may take and the result of the operation.
