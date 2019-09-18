@@ -21,5 +21,3 @@ They are :
 
 Sources: 
 * https://introcs.cs.princeton.edu/java/71boolean/ 
-
-(Note from Jennifer: Still working on homework... )
