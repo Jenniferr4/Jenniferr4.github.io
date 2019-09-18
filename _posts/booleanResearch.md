@@ -16,3 +16,4 @@ They are :
 
 ### Truth Table
 
+(Note from Jennifer: Still working on homework... )
