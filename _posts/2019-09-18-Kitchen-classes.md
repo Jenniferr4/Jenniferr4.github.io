@@ -1,9 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Kitchen Classes!
 ---
-
-# Kitchen Classes
+How is something an object? 
 
 A blender is siblings with a food processor.
 ![_config.yml]({{ site.baseurl }}/images/blender-vs-processor.png)
