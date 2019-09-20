@@ -9,6 +9,10 @@ Inheritance in Java is a mechanism in which one object acquires **all** the prop
 
 According to the __Liskov Substitution Principle__, any class that is the child of a parent class should be usable in place of its parent __without any unexpected behaviour__.
   
+  
+  
+  
+  
 Although a square is considered a rectangle, a square has different behaviors than a rectangle. 
 If you were to change the height of Rectangle, width would not be affected.  
   
