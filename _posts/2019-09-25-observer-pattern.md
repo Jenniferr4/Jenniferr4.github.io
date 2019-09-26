@@ -14,6 +14,8 @@ and each Observer queries the Subject for that __subset of the Subject's state__
 ![_config.yml]({{ site.baseurl }}/images/java-features.png)
      
 ## Which Java language feature supports the use of the Observer pattern?
+Both object oriented and architecture-neutral , Java's many features, enable the Observer pattern.
+
 **Object Oriented**
 In Java, everything is an Object. Java can be easily extended since it is based on the Object model.
 
